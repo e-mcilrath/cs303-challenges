@@ -1,0 +1,4 @@
+# Compiled binaries and debug symbols
+solution
+*.dSYM/
+*~
